@@ -2,6 +2,21 @@ body {
   background-color: #acacac;
 }
 
+header {
+  font-size: 4em;
+  -webkit-text-stroke: 2px rgb(179, 223, 154);
+  color: transparent;
+}
+
+h1 {
+  margin: 0;
+  margin-left: 3rem;
+}
+
+h1:hover {
+  -webkit-text-stroke: 2px rgb(225, 210, 240);
+}
+
 img {
   border: 2px inset #d2d2d2;
   padding: 1rem;
